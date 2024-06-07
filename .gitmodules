@@ -3,4 +3,4 @@
 	url = https://github.com/theoanab/SILK-USENIXATC2019.git
 [submodule "YCSB-SILK"]
 	path = YCSB-SILK
-	url = https://github.com/Klaw807/YCSB-SILK.git
+	url = git@github.com:Klaw807/YCSB-SILK.git
